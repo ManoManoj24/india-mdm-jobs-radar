@@ -1,0 +1,108 @@
+{
+  "version": "2026-09-19",
+  "generatedAt": "2026-09-19T13:00:23.829Z",
+  "methodology": "Direct employer Greenhouse and Lever feeds only. India-located specialist roles are selected using title, location and description signals; generic data engineering, security and sales roles are excluded. Requisition URL is the dedupe key.",
+  "jobs": [
+    {
+      "id": "lv-beghouconsulting-23358bd7-337f-4b23-8129-391952ef0592",
+      "employer": "Beghou",
+      "title": "Consultant - Data Warehousing (MDM)- 482",
+      "location": "Pune",
+      "workplace": "Hybrid",
+      "experience": "Mid",
+      "vendorTags": [
+        "MDM"
+      ],
+      "postedAt": "2026-08-17T10:46:59.033Z",
+      "lastVerifiedAt": "2026-09-19T13:00:23.829Z",
+      "url": "https://jobs.lever.co/beghouconsulting/23358bd7-337f-4b23-8129-391952ef0592",
+      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "source": "Lever"
+    },
+    {
+      "id": "lv-beghouconsulting-893fd7a0-4e77-43cd-9fcc-c08567c3cddb",
+      "employer": "Beghou",
+      "title": "Senior Consultant, Data Warehousing (MDM)",
+      "location": "Pune",
+      "workplace": "Hybrid",
+      "experience": "Senior",
+      "vendorTags": [
+        "MDM"
+      ],
+      "postedAt": "2025-07-18T14:38:12.406Z",
+      "lastVerifiedAt": "2026-09-19T13:00:23.829Z",
+      "url": "https://jobs.lever.co/beghouconsulting/893fd7a0-4e77-43cd-9fcc-c08567c3cddb",
+      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "source": "Lever"
+    },
+    {
+      "id": "gh-reltio-6139696004",
+      "employer": "Reltio",
+      "title": "Advanced Customer Engineer-Level 1",
+      "location": "Bangalore",
+      "workplace": "On-site",
+      "experience": "Mid",
+      "vendorTags": [
+        "Reltio",
+        "MDM"
+      ],
+      "postedAt": "2026-08-12T01:51:47-04:00",
+      "lastVerifiedAt": "2026-09-19T13:00:23.829Z",
+      "url": "https://job-boards.greenhouse.io/reltio/jobs/6139696004",
+      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "gh-reltio-6139717004",
+      "employer": "Reltio",
+      "title": "Customer Engineer",
+      "location": "Bangalore",
+      "workplace": "On-site",
+      "experience": "Mid",
+      "vendorTags": [
+        "Reltio",
+        "MDM"
+      ],
+      "postedAt": "2026-08-12T01:53:52-04:00",
+      "lastVerifiedAt": "2026-09-19T13:00:23.829Z",
+      "url": "https://job-boards.greenhouse.io/reltio/jobs/6139717004",
+      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "gh-reltio-6136088004",
+      "employer": "Reltio",
+      "title": "Staff Forward Deployed Engineer (FDE)",
+      "location": "Bangalore",
+      "workplace": "On-site",
+      "experience": "Mid",
+      "vendorTags": [
+        "Reltio",
+        "Data governance",
+        "MDM"
+      ],
+      "postedAt": "2026-08-13T02:44:57-04:00",
+      "lastVerifiedAt": "2026-09-19T13:00:23.829Z",
+      "url": "https://job-boards.greenhouse.io/reltio/jobs/6136088004",
+      "summary": "At Reltio®, an SAP Company, we believe data should fuel business success. Reltio’s AI-powered data unification and management capabilities—encompassing entity resolution, multi-domain master data management (MDM), and da",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "gh-thoughtworks-8156463",
+      "employer": "Thoughtworks",
+      "title": "Solution Architect - Data & AI",
+      "location": "Bangalore, India",
+      "workplace": "On-site",
+      "experience": "Lead",
+      "vendorTags": [
+        "Data governance",
+        "Data quality"
+      ],
+      "postedAt": "2026-09-10T06:53:41-04:00",
+      "lastVerifiedAt": "2026-09-19T13:00:23.829Z",
+      "url": "https://www.thoughtworks.com/careers/jobs/8156463?gh_jid=8156463",
+      "summary": "Principal data architects at Thoughtworks play a key part in developing modern data architecture approaches to meet business objectives and provide end-to-end data solutions.",
+      "source": "Greenhouse"
+    }
+  ]
+}
