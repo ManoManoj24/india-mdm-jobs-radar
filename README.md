@@ -14,10 +14,10 @@ npm run dev
 ## Data model and refresh
 
 - `data/jobs.json` is the published, versioned snapshot used at build time.
-- `npm run refresh` reads public employer Greenhouse and Lever feeds, keeps India-relevant specialist roles, writes a short factual summary, and deduplicates by canonical application URL.
+- `npm run refresh` reads public employer Greenhouse and Lever feeds plus explicitly validated Workday CXS tenants, keeps India-relevant specialist roles, writes a short factual summary, and deduplicates by canonical application URL.
 - No full job descriptions, third-party board scraping or employer logos are stored.
 - Failed sources are logged and do not erase successful results. Review the refresh output before committing a new weekly snapshot.
-- Workday employers can be added tenant by tenant after validating each CXS endpoint. Do not guess tenant URLs.
+- Workday sources are listed tenant by tenant in `scripts/sources.ts`; add one only after validating its public CXS endpoint, site name and canonical job URL. Do not guess tenant URLs.
 
 ## Vercel
 
