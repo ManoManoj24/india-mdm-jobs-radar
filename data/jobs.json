@@ -1,6 +1,6 @@
 {
   "version": "2026-09-19",
-  "generatedAt": "2026-09-19T13:15:17.310Z",
+  "generatedAt": "2026-09-19T15:54:03.979Z",
   "methodology": "Direct employer Greenhouse, Lever and validated Workday CXS feeds only. India-located specialist roles are selected from title, location and description signals; obvious generic engineering, security, sales and unrelated roles are excluded. Requisition URL is the dedupe key.",
   "jobs": [
     {
@@ -15,10 +15,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/External-Data-Assets-Lead_R-216568",
-      "summary": "Career Category Information Systems Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases and make people’s lives easier, fuller and longer.",
+      "summary": "14-17 years of relevant experience in data management Strong expertise in defining and executing Data management strategy Good exposure in defining Enterprise data strategy Expertise in at least two core Data management capabilities such as Data Governance, Data quality and Master data management etc. The role requires to engage with Business functions and help in progressing with the data maturity journey at Amgen.",
       "source": "Workday"
     },
     {
@@ -31,10 +31,10 @@
       "vendorTags": [
         "Data governance"
       ],
-      "postedAt": "2026-09-08T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-08T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Standards---Metadata-Governance-Lead_R-253514",
-      "summary": "Career Category Clinical Job Description Position Overview Amgen is expanding its global Biomedical Data Stewardship (BMDS) capabilities, with Amgen India (AIN) playing an increasingly critical role in integrated delivery and functional leadership.",
+      "summary": "As Senior Manager, Biomedical Data Stewardship, you will help advance Amgen’s Data Element Standards (DES) and support Precision Medicine and Clinical Data Hub (CDH) needs through India-based execution while partnering closely with global BMDS and cross-functional teams. Key Responsibilities: This role supports global Precision Medicine and Biomedical Data Stewardship objectives through India-based execution and cros",
       "source": "Workday"
     },
     {
@@ -50,10 +50,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Steward_R-216588",
-      "summary": "Career Category Information Systems Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "This role involves working closely with business stakeholders and data analysts to ensure implementation and adoption of the data governance framework. Roles & Responsibilities: Responsible for the data governance and data management framework implementation for the Development domain of the biopharma lifecycle.",
       "source": "Workday"
     },
     {
@@ -70,10 +70,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-09-15T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-15T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/HR-Data-Architecture---Governance---Lead_R-245795",
-      "summary": "Career Category Human Resources Job Description Job Summary The &#x1d5db;&#x1d5e5; &#x1d5d7;&#x1d5ee;&#x1d601;&#x1d5ee; &#x1d5d4;&#x1d5ff;&#x1d5f0;&#x1d5f5;&#x1d5f6;&#x1d601;&#x1d5f2;&#x1d5f0;&#x1d601;&#x1d602;&#x1d5ff;&",
+      "summary": "The position will lead enterprise initiatives around data quality, metadata management, master data management (MDM), and data stewardship , while promoting a strong data-driven culture across the organization. Key Responsibilities: Data Governance Strategy Define and implement the enterprise data governance strategy, framework, and operating model.",
       "source": "Workday"
     },
     {
@@ -88,10 +88,10 @@
         "Data governance",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/MDM-Platform-Administrator_R-216716",
-      "summary": "Career Category Information Systems Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "This role is critical in ensuring the reliability, availability, and performance of master data solutions across the organization, utilizing modern tools like Databricks and AWS for automation, backup, recovery, and preventive maintenance. The ideal candidate will have strong experience in server maintenance, data recovery, data backup, and MDM software support.",
       "source": "Workday"
     },
     {
@@ -106,10 +106,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Neural-Nexus---Data-Steward--Data---AI-Enablement--AuRA-_R-240657",
-      "summary": "Career Category Sales & Marketing Operations Job Description Neural Nexus – Manager, Data & AI Enablement (AuRA) (L5) Location: India Join Amgen’s Mission of Serving Patients At Amgen, if you feel like you’re part of something bigger, it’s because you are.",
+      "summary": "You will also play a key role in ensuring data stewardship, governance, and FAIR-aligned data practices , enabling trusted and reusable data assets across AuRA. Data Governance, Stewardship & Quality Enforce data governance practices including: Data ownership and stewardship Data lineage and traceability Role-based access controls Ensure adherence to FAIR principles (Findable, Accessible, Interoperable, Reusable) and",
       "source": "Workday"
     },
     {
@@ -126,10 +126,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-09-04T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-04T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal--Data-Strategy-and-Governance--DG-Lead-_R-252527",
-      "summary": "Career Category Information Systems Job Description What You Will Do Let's do this.",
+      "summary": "This role as Principal (Data Strategy & Governance) at Amgen plays a key part in defining and operationalizing Data governance collaboration with the leadership for Data Foundation and Governance and Amgen business functions. Key Responsibilities: Design and operationalize Enterprise-wide data governance frameworks, policies, standards, and operating models Engage with business functions to lead and drive data govern",
       "source": "Workday"
     },
     {
@@ -144,10 +144,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Reference-Data-Governance-Specialist_R-251342-1",
-      "summary": "Career Category Information Systems Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "The professional will work closely with business SMEs, data stewards, data architects, governance teams, and technology partners to define, standardize, govern, and publish reference data across enterprise platforms. Partner with business SMEs, data owners, data stewards, and governance councils to define reference data standards, ownership, stewardship rules, and usage guidelines.",
       "source": "Workday"
     },
     {
@@ -163,10 +163,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Reltio-Developer--Associate-Data-Management-_R-243955",
-      "summary": "Career Category Engineering Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "The ideal candidate will have strong expertise in Reltio configuration/Integration Hub, Lifecycle Actions (LCA), Java-based development, and API integrations , along with domain experience in Pharma/Life Sciences . Key Responsibilities Design and implement Reltio MDM solutions , including data models, entities, relationships, and hierarchies Configure L3 Configuration, Entity Data Modeling and develop Lifecycle Actio",
       "source": "Workday"
     },
     {
@@ -181,10 +181,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Manager---Systems-and-Master-Data-Management-Lead_R-240394",
-      "summary": "Career Category Engineering Job Description ABOUT THE ROLE The Senior Manager, Systems and Master Data Management Lead role is responsible for leading a team that ensures enterprise Engineering, Facilities, and EHS syste",
+      "summary": "This role drives disciplined system governance and master data management practices that support and improve enterprise analytics, system integrations, and operational decision-making. This leader ensures trusted, consistent, and governed master data across the global ecosystem while enabling data to be Findable, Accessible, Interoperable, and Reusable (FAIR).",
       "source": "Workday"
     },
     {
@@ -200,10 +200,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-MDM-Data-Engineer_R-252322",
-      "summary": "Career Category Information Systems Job Description Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "The ideal candidate will have strong expertise in Reltio configuration, Lifecycle Actions (LCA), RIH, Python-based development, and API integrations, along with domain experience in Pharma/Life Sciences. Roles & Responsibilities: Design and implement Reltio MDM solutions , including data models, entities, relationships, and hierarchies Configure and develop Lifecycle Actions (LCA) for event-driven data processing and",
       "source": "Workday"
     },
     {
@@ -220,10 +220,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-26T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-26T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-Data-Management_R-251211",
-      "summary": "Career Category Engineering Job Description ABOUT THE ROLE The Data Governance Lead will lead the creation, implementation and adoption of the Enterprise Data Governance framework across assigned business domains.",
+      "summary": "The role will partner with business, Data Product Owners, Data Stewards, Technology, and enterprise data teams to improve data trust, quality, discoverability, protection, and reuse. ROLES & RESPONSIBILITIES Drive adoption and operationalization of the Enterprise Data Governance framework within assigned domains.",
       "source": "Workday"
     },
     {
@@ -240,10 +240,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-09-16T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-16T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Management_R-254038",
-      "summary": "Career Category Information Systems Job Description Job Title Senior Associate – Data Management Department Data Strategy & Governance Role Summary We are seeking a highly motivated Senior Associate – Data Management wit",
+      "summary": "The ideal candidate will have strong hands-on experience with Reltio MDM , Informatica MDM , SQL , and Python , and will play a key role in ensuring the accuracy, quality, governance, and integrity of enterprise master data across business domains. This role will partner closely with business stakeholders, data stewards, data engineers, and application teams to support data governance processes, data quality initiati",
       "source": "Workday"
     },
     {
@@ -259,10 +259,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-09-17T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-17T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Master-Data-Management_R-249529",
-      "summary": "Career Category Information Systems Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases and make people’s lives easier, fuller , and longer.",
+      "summary": "The analyst will support key performance monitoring, data governance, and compliance efforts, as well as assist in data migration and integration projects. Candidates should have experience in enterprise applications like SAP or Oracle , f amiliarity with data governance frameworks and compliance standards , and strong analytical skills.",
       "source": "Workday"
     },
     {
@@ -277,10 +277,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Manager--Data-Governance-Lead---Domain-Specific_R-217747",
-      "summary": "Career Category Information Systems Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "The Data Strategy and Governance Lead will partner with senior leadership and other Data Governance functional leads to align data initiatives with business goals. He/she will establish and enforce data governance policies and standards to provide high-quality data, easy to reuse and connect to accelerate AI innovative solutions to better serve patients .",
       "source": "Workday"
     },
     {
@@ -297,10 +297,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-09-03T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-03T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Systems-and-Master-Data-Management-Specialist_R-253958",
-      "summary": "Career Category Engineering Job Description ABOUT AMGEN Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer.",
+      "summary": "This role is responsible for maintaining system integrity, enabling business process standardization, governing master data, supporting technology integrations, and ensuring users can effectively leverage systems to drive operational performance, compliance, and business outcomes. This role owns governance and operational oversight for key enterprise applications including SAP S/4HANA, SAP MDG, Collibra, CMMS/EAM pla",
       "source": "Workday"
     },
     {
@@ -314,9 +314,9 @@
         "Data governance"
       ],
       "postedAt": "2026-09-09T16:33:37.944Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/07f3833f-0432-4cfe-94af-7abb36492992",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Additionally, you should provide strategic insights to improve decision-making processes, implement best practices for data governance, and offer training for internal teams, ultimately driving the organization towards becoming more data-driven and efficient in its operations. Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage custom",
       "source": "Lever"
     },
     {
@@ -330,9 +330,9 @@
         "Data governance"
       ],
       "postedAt": "2026-08-17T10:45:37.703Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/0ea9cdca-8906-4851-85b0-e3690f044ef9",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Additionally, you should provide strategic insights to improve decision-making processes, implement best practices for data governance, and offer training for internal teams, ultimately driving the organization towards becoming more data-driven and efficient in its operations. Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage custom",
       "source": "Lever"
     },
     {
@@ -346,9 +346,9 @@
         "Data governance"
       ],
       "postedAt": "2026-06-11T08:31:03.346Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/95e3d15b-31f8-4e25-9caf-4d45b9728262",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Additionally, you should provide strategic insights to improve decision-making processes, implement best practices for data governance, and offer training for internal teams, ultimately driving the organization towards becoming more data-driven and efficient in its operations. Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage custom",
       "source": "Lever"
     },
     {
@@ -362,9 +362,9 @@
         "Data governance"
       ],
       "postedAt": "2025-08-28T16:37:16.745Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/d6168a90-c5da-431f-8463-909663809f03",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Additionally, you should provide strategic insights to improve decision-making processes, implement best practices for data governance, and offer training for internal teams, ultimately driving the organization towards becoming more data-driven and efficient in its operations. Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage custom",
       "source": "Lever"
     },
     {
@@ -378,9 +378,9 @@
         "Data governance"
       ],
       "postedAt": "2026-05-20T07:38:08.888Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/c617f838-8297-44a3-aadb-db9b19d8fe43",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage customer data, organize, and report on medical and commercial data, and more. Headquartered in Evanston, Illinois, we have 10 global offices.",
       "source": "Lever"
     },
     {
@@ -394,9 +394,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-17T10:46:59.033Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/23358bd7-337f-4b23-8129-391952ef0592",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage customer data, organize, and report on medical and commercial data, and more. Headquartered in Evanston, Illinois, we have 10 global offices.",
       "source": "Lever"
     },
     {
@@ -410,9 +410,9 @@
         "Data governance"
       ],
       "postedAt": "2025-08-25T12:38:51.713Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/a5edfaca-1bb0-4e5c-abc8-dc7026d31777",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Additionally, you should provide strategic insights to improve decision-making processes, implement best practices for data governance, and offer training for internal teams, ultimately driving the organization towards becoming more data-driven and efficient in its operations. Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage custom",
       "source": "Lever"
     },
     {
@@ -426,9 +426,9 @@
         "MDM"
       ],
       "postedAt": "2025-07-18T14:38:12.406Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/beghouconsulting/893fd7a0-4e77-43cd-9fcc-c08567c3cddb",
-      "summary": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology.",
+      "summary": "Beghou also deploys proprietary and third-party technology solutions to help companies forecast performance, design territories, manage customer data, organize, and report on medical and commercial data, and more. Headquartered in Evanston, Illinois, we have 10 global offices.",
       "source": "Lever"
     },
     {
@@ -442,9 +442,9 @@
         "Data governance"
       ],
       "postedAt": "2026-01-06T06:58:54.060Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://jobs.lever.co/brillio-2/11b5d6d0-e2ef-4609-a65a-1c8303f15b0c",
-      "summary": "About the Role We are seeking a Microsoft Fabric Data Engineer with 7+ years of experience for a lead role.",
+      "summary": "Data Governance & Security: Implement governance and compliance frameworks within Fabric, ensuring data lineage, privacy, and security across the unified platform. Strong understanding of data governance and security practices.",
       "source": "Lever"
     },
     {
@@ -459,10 +459,10 @@
         "Data governance",
         "MDM"
       ],
-      "postedAt": "2026-09-03T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-03T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Senior-Software-Engineer---Reltio_R4045858-1",
-      "summary": "Job Description Summary As a Senior Software Engineer – Reltio, at GE Healthcare, you will play a pivotal role in implementing the technical direction and core configuration of our cutting-edge enterprise master data and healthcare data platform solutions.",
+      "summary": "Responsibilities:** Lead the development, configuration, and implementation of enterprise MDM solutions, translating complex healthcare data requirements into robust code and configuration files using the Reltio Connected Data Platform. Implement and optimize MDM workflows leveraging Cloud Technology, managing multi-tenant SaaS features while adhering to organizational standards for cost, security, compliance, and pe",
       "source": "Workday"
     },
     {
@@ -478,10 +478,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-09-18T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-09-18T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Principal-Specialist---Data-Governance_R-55601-2026",
-      "summary": "A Career at HARMAN As a technology leader that is rapidly on the move, HARMAN is filled with people who are focused on making life better.",
+      "summary": "Contribute your talents to high-end, esteemed brands like JBL, Mark Levinson, Revel, Denon, and Bowers & Wilkins Unite your passion for audio innovation with high-tech product development Create pitch-perfect, cutting-edge technology that elevates the listening experience What You’ll Be Part Of As a Data Governance Professional, you will play a hands-on role in establishing and strengthening data governance practices",
       "source": "Workday"
     },
     {
@@ -497,10 +497,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Principal-Architect---SAP-MDG_R-54658-2026",
-      "summary": "A Career at HARMAN As a technology leader that is rapidly on the move, HARMAN is filled with people who are focused on making life better.",
+      "summary": "Engineer audio systems and integrated technology platforms that augment the driving experience Combine ingenuity, in-depth research, and a spirit of collaboration with design and engineering excellence Advance in-vehicle infotainment, safety, efficiency, and enjoyment About the Role We are seeking an experienced Principal Architect – SAP MDG with deep expertise in SAP Master Data Governance (MDG) to lead and support",
       "source": "Workday"
     },
     {
@@ -517,10 +517,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-25T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-25T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Manager--Procurement-Data-Excellence---Governance_JR109259",
-      "summary": "Our vision is to transform how the world uses information to enrich life for all .",
+      "summary": "You own data governance and quality operations, Global Procurement performance metrics and reporting, and the procurement data strategy — and you lead a multi-region team across Singapore, the United States, India, and Malaysia. A core part of your mandate is to reimagine the data governance and excellence operating model with AI agents embedded — redefining how policies, quality monitoring, lineage, and stewardship",
       "source": "Workday"
     },
     {
@@ -536,10 +536,10 @@
         "Data quality",
         "MDM"
       ],
-      "postedAt": "2026-08-20T13:15:17.310Z",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "postedAt": "2026-08-20T15:54:03.979Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Sr-Data-Management-Specialist_JR102940",
-      "summary": "Our vision is to transform how the world uses information to enrich life for all .",
+      "summary": "As part of Micron’s Enterprise Master Data (EMD) – Material team, the Senior Data Management Specialist plays a critical role in ensuring high-quality, reliable, and scalable material master data that supports global supply chain operations. Role Overview In this role, you will own material master data, while also driving transformation initiatives that improve data quality, process efficiency, and system integration",
       "source": "Workday"
     },
     {
@@ -554,9 +554,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-12T01:51:47-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/6139696004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "summary": "Reltio’s cloud-native SaaS platform harmonizes, unifies, and governs data across sources and formats—including unstructured data—in real time, turning them into data assets that can be mobilized in milliseconds to any application, user, or AI agent. We embrace our differences and are “Better Together” as One Reltio.",
       "source": "Greenhouse"
     },
     {
@@ -571,9 +571,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-12T01:53:52-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/6139717004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "summary": "Reltio’s cloud-native SaaS platform harmonizes, unifies, and governs data across sources and formats—including unstructured data—in real time, turning them into data assets that can be mobilized in milliseconds to any application, user, or AI agent. We embrace our differences and are “Better Together” as One Reltio.",
       "source": "Greenhouse"
     },
     {
@@ -587,9 +587,9 @@
         "Reltio"
       ],
       "postedAt": "2026-09-11T11:20:05-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/5913450004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "summary": "Reltio’s cloud-native SaaS platform harmonizes, unifies, and governs data across sources and formats—including unstructured data—in real time, turning them into data assets that can be mobilized in milliseconds to any application, user, or AI agent. We embrace our differences and are “Better Together” as One Reltio.",
       "source": "Greenhouse"
     },
     {
@@ -604,9 +604,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-19T05:57:26-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/6142879004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "summary": "Reltio’s cloud-native SaaS platform harmonizes, unifies, and governs data across sources and formats—including unstructured data—in real time, turning them into data assets that can be mobilized in milliseconds to any application, user, or AI agent. We embrace our differences and are “Better Together” as One Reltio.",
       "source": "Greenhouse"
     },
     {
@@ -621,9 +621,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-24T07:00:14-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/6143008004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "summary": "Reltio’s cloud-native SaaS platform harmonizes, unifies, and governs data across sources and formats—including unstructured data—in real time, turning them into data assets that can be mobilized in milliseconds to any application, user, or AI agent. We embrace our differences and are “Better Together” as One Reltio.",
       "source": "Greenhouse"
     },
     {
@@ -638,9 +638,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-26T09:20:08-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/6161118004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel your success in the enterprise AI era.",
+      "summary": "Reltio’s cloud-native SaaS platform harmonizes, unifies, and governs data across sources and formats—including unstructured data—in real time, turning them into data assets that can be mobilized in milliseconds to any application, user, or AI agent. We embrace our differences and are “Better Together” as One Reltio.",
       "source": "Greenhouse"
     },
     {
@@ -656,9 +656,9 @@
         "MDM"
       ],
       "postedAt": "2026-08-13T02:44:57-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://job-boards.greenhouse.io/reltio/jobs/6136088004",
-      "summary": "At Reltio®, an SAP Company, we believe data should fuel business success. Reltio’s AI-powered data unification and management capabilities—encompassing entity resolution, multi-domain master data management (MDM), and da",
+      "summary": "Reltio’s AI-powered data unification and management capabilities—encompassing entity resolution, multi-domain master data management (MDM), and data products—transform siloed data from disparate sources into unified, trusted, and interoperable data. Reltio Data Cloud™ delivers interoperable data where and when it's needed, empowering data and analytics leaders with unparalleled business responsiveness.",
       "source": "Greenhouse"
     },
     {
@@ -673,9 +673,9 @@
         "Data quality"
       ],
       "postedAt": "2026-09-10T06:53:41-04:00",
-      "lastVerifiedAt": "2026-09-19T13:15:17.310Z",
+      "lastVerifiedAt": "2026-09-19T15:54:03.979Z",
       "url": "https://www.thoughtworks.com/careers/jobs/8156463?gh_jid=8156463",
-      "summary": "Principal data architects at Thoughtworks play a key part in developing modern data architecture approaches to meet business objectives and provide end-to-end data solutions.",
+      "summary": "You will be responsible for the technical design of data governance, data security and data privacy to fulfill compliance requirements, and incorporate data quality frameworks and processes. You have deep experience in solutioning and implementation of data platforms, data mesh, data modernization, data as a product, data quality, data governance.",
       "source": "Greenhouse"
     }
   ]
