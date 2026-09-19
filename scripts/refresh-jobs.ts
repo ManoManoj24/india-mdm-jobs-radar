@@ -10,7 +10,7 @@ const titleSpecialist = /\b(MDM|master data|PIM|product information|data governa
 const specialistShape = /consultant|architect|customer engineer|forward deployed|advisory|implementation|solution/i;
 const bodySpecialist = /\b(MDM|master data|PIM|product information management|data governance|data quality|Stibo(?:\s+STEP)?|Informatica(?:\s+MDM)?|SAP\s+MDG)\b/i;
 const negative = /\b(sales|account executive|security|cyber|data engineer|machine learning engineer)\b/i;
-const clean = (s = "") => s.replace(/<[^>]*>/g, " ").replace(/&nbsp;|&#160;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+const clean = (s = "") => s.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, "\"").replace(/&#39;|&apos;/g, "\'").replace(/&amp;/g, "&").replace(/<[^>]*>/g, " ").replace(/&nbsp;|&#160;/g, " ").replace(/\s+/g, " ").trim();
 const shorten = (s: string) => { const c = clean(s); const m = c.match(/^(.{80,260}?[.!?])(?:\s|$)/); return (m?.[1] || c.slice(0, 220)).trim(); };
 const tags = (s: string) => [[/Stibo|STEP/i,"Stibo STEP"],[/Reltio/i,"Reltio"],[/Informatica/i,"Informatica"],[/SAP\s+MDG/i,"SAP MDG"],[/PIM|product information/i,"PIM"],[/data governance/i,"Data governance"],[/data quality/i,"Data quality"],[/\bMDM\b|master data/i,"MDM"]].filter(([r]) => (r as RegExp).test(s)).map(([,t]) => t as string);
 const exp = (t: string): Job["experience"] => /director|head|principal|architect|lead|manager/i.test(t) ? "Lead" : /senior|sr\.?/i.test(t) ? "Senior" : /associate|junior|analyst|graduate/i.test(t) ? "Early" : "Mid";
